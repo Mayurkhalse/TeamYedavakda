@@ -135,7 +135,7 @@ Instead, it:
 ```bash
 cd backend
 pip install -r requirements.txt
-uvicorn main:app --reload
+uvicorn main:app --host 0.0.0.0 --port $PORT
 ```
 
 ### API Endpoints (Sample)
@@ -245,6 +245,10 @@ All are stored under:
 - Scalable for other districts beyond Nashik  
 
 ---
+
+##Web link  
+[teamyedavakda.netlify.app](https://teamyedavakda.netlify.app)
+
 
 ## 🎥 Demo Video (Add Your Link Below)
 👉 **Demo Video:** *Add YouTube or Google Drive link here*

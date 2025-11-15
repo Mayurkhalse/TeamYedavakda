@@ -2,6 +2,9 @@
 A complete geospatial + machine learning system designed for predicting **Bloom Stages**, **Crop Types**, and **6-Month Forecasts** across the **Nashik agricultural region**, divided into **64 uniform tiles**.  
 This repository contains the **React Frontend**, **FastAPI Backend**, and **ML CSV Outputs** that power BloomWatch.
 
+Youtube Link for Demo video + explanation : https://youtu.be/fonmjEJX5j0
+Project working link : https://teamyedavakda.netlify.app
+You can use the credentials : email :- mayur3@gmail.com password :- Mayur123
 ---
 
 # 📌 Project Overview
